@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/ethereum/js-organization.git",
   "author": "EF JS team",
+  "homepage": "https://marcgarreau.github.io/js-organization",
   "scripts": {
     "docz:dev": "docz dev",
     "docz:build": "docz build",
