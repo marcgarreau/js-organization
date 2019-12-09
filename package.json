@@ -5,9 +5,9 @@
   "author": "EF JS team",
   "homepage": "https://marcgarreau.github.io/js-organization",
   "scripts": {
-    "docz:dev": "docz dev",
-    "docz:build": "docz build",
-    "docz:serve": "docz build && docz serve"
+    "dev": "docz dev",
+    "build": "docz build",
+    "serve": "docz build && docz serve"
   },
   "dependencies": {
     "docz": "^2.1.1",
